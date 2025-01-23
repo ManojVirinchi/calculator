@@ -34,10 +34,10 @@ button{
     font-weight: bold;  
     border-radius: 10%;
 }
-.sixthrow #zero{
+/* .sixthrow #zero{
     width: 124px;
 
-}
+} */
 .secondrow .lastcol{
     background-color: rgba(242, 164, 21, 0.901);
 }
