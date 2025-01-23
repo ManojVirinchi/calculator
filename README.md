@@ -78,7 +78,4 @@ Feel free to fork this repository and contribute enhancements or bug fixes! Make
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
